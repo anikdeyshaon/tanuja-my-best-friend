@@ -5,5 +5,3 @@ She doesn’t just work at Bangladesh Bank—she commands it as Assistant Direct
 I forged this masterpiece with HTML, CSS, and JavaScript, featuring a slideshow of her epicness, 
 Chuck Norris-style facts, and a background that changes faster than you can blink. 
 Tanuja’s so epic, even this README wrote itself!
-
-Check it out live: [https://anikdeyshaon.github.io/tanuja-my-best-friend/](https://anikdeyshaon.github.io/tanuja-my-best-friend/)
